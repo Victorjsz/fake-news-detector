@@ -21,3 +21,12 @@ You can also install these libraries using
 
 
 poetry install
+
+# Usage
+
+### Using Docker
+
+This project provides a docker-compose.yml file to run the project in a docker container.
+
+```bash
+docker-compose up
