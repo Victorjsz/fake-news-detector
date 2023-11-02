@@ -1,6 +1,14 @@
 # fake news detector
 
+
 ¡[fake-news.jpg]! [Alt image] (image-1.png)
+=======
+
+! [Fake-nes.jpg]![Alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.es%2Fvector-premium%2Fnoticias-digitales-periodicos-tablet-pc_5834170.htm&psig=AOvVaw07P6GP3WeOsiYzx5kFCgiN&ust=1699034715679000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICSutfzpYIDFQAAAAAdAAAAABAJ)
+=======
+[Alt text](image-1.png)
+
+
 
 [pincha aquí]()
 
