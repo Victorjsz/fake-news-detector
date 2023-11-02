@@ -1,6 +1,6 @@
 # fake news detector
 
-¡[fake-news.jpg]! (image-1.png)
+¡[fake-news.jpg]! [Alt image] (image-1.png)
 
 [pincha aquí]()
 
