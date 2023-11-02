@@ -28,5 +28,4 @@ poetry install
 
 This project provides a docker-compose.yml file to run the project in a docker container.
 
-```bash
 docker-compose up
